@@ -1,6 +1,6 @@
 # react_remote_control
 
-Build the jsx source 
+Build the js source
 
 ```
 npm run transpile-jsx
